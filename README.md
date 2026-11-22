@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/banner.svg" alt="MPGU Schedule Bot" width="100%"></p>
+<h1 align="center">MPGU Schedule Bot</h1>
 
 <div align="center">
 
